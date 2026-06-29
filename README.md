@@ -3,7 +3,7 @@
 This project is a demo showcasing a time‑management interface built with HTML.  
 It is designed for display purposes only and is not intended for reuse, copying, or redistribution.
 
-This is a work in progress, you can expect ongoing improvements as the app grows with user feedback.
+This is a work in progress, and you can expect ongoing improvements as the app grows with user feedback.
 
 ## Features
 
